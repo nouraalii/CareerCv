@@ -1,5 +1,7 @@
 
 AI Career Assistant
 
-AI Career Assistant is a full-stack web application that analyzes uploaded CVs, extracts technical and professional skills, and identifies gaps based on a selected career path. It estimates the candidate's experience level (Junior / Mid-Level / Senior) and presents results in an interactive Angular dashboard with analysis history to help users track improvements over time.
+AI Career Assistant is a full-stack web application that analyzes uploaded CVs, extracts technical and professional skills, and identifies gaps based on a selected career path. 
+It estimates the candidate's experience level (Junior / Mid-Level / Senior) and presents results in an interactive Angular dashboard with analysis history to help users track improvements 
+over time.
 
